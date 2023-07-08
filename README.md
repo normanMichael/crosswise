@@ -9,5 +9,5 @@ CALL crosswise.get_book();
 '4', 'Measure of a Man', 'Revelation 21, Ezekiel 40-48, Genesis 6-9'
 '5', 'Skilled Men', 'Genesis 14'
 '6', 'Time, Times, and a Half of Time', 'Daniel 7, Daniel 12, Revelation 11, Revelation 12, 1 Kings 17-19, Luke 4, James 5'
-'7', 'Generations', NULL
+'7', 'Generations', 'Matthew 1'
 '8', 'Crosswise', NULL
