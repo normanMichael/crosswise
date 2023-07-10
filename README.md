@@ -19,6 +19,8 @@ CALL crosswise.get_book();
 
 8, Crosswise, NULL
 
+CALL crosswise.get_todo();
+
 # TO DO
 
 	# Chapter	Reference	Summary	
