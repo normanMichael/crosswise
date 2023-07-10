@@ -2,7 +2,7 @@
 
 CALL crosswise.get_book();
 
-    # Chapter, Title, Reference
+     Chapter, Title, Reference
 1, The Fish, Matthew 4, Mark 1, Luke 4, John 21, Ezekiel 47, Jeremiah 16
 
 2, Number of a Man, Revelation 13
@@ -23,7 +23,7 @@ CALL crosswise.get_todo();
 
 # TO DO
 
-	# Chapter	Reference	Summary	
+	 Chapter	Reference	Summary	
 - [ ]	1	Matthew 4	Jesus to disciples - I will make you fishers of people	 
 - [ ]	1	Mark 1	Jesus to disciples - I will make you fishers of people	 
 - [ ]	1	Luke 4	Jesus replied to Simon - Don’t be afraid! From now on you’ll be fishing for people!	 
