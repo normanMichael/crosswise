@@ -2,7 +2,7 @@
 
 CALL crosswise.get_book();
 
-# Chapter, Title, Reference
+    # Chapter, Title, Reference
 1, The Fish, Matthew 4, Mark 1, Luke 4, John 21, Ezekiel 47, Jeremiah 16
 
 2, Number of a Man, Revelation 13
